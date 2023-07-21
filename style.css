@@ -224,7 +224,7 @@ ul {
 }
 .join-bg {
   position: relative;
-  background-image: url("image/join-shape.png");
+  background-image: url("join-shape.png");
   background-size: 100% 100%;
   background-repeat: no-repeat;
   padding: 35px;
@@ -273,7 +273,7 @@ ul {
   margin: auto;
 }
 .tes-02-image {
-  background-image: url("image/testimonial-03.png");
+  background-image: url("testimonial-03.png");
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
@@ -488,7 +488,7 @@ ul {
     display: none;
   }
   .news-letter {
-    background-image: url("image/news.png");
+    background-image: url("news.png");
     background-size: 100% 100%;
     background-repeat: no-repeat;
     width: 100%;
@@ -499,7 +499,7 @@ ul {
     display: none;
   }
   .some-information {
-    background-image: url("image/s-i-02.png");
+    background-image: url("s-i-02.png");
     background-repeat: no-repeat;
     background-size: 100% 90%;
   }
