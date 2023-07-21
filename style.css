@@ -412,6 +412,9 @@ ul {
   .b-card-content .gen-btn button {
     width: 100%;
   }
+  .tes-01 {
+    padding: 11% 0%;
+}
 }
 @media (max-width: 991px) {
   .banner-content {
